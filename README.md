@@ -43,7 +43,7 @@ The interactive dashboard provides a comprehensive view of FNP’s sales perform
 - Insights into customer behavior and top-performing products.
 - Revenue distribution by occasions.
 
-![Dashboard](---)
+![Dashboard](https://github.com/mahadevhere/Ferns-and-Petals-Sales-Analysis/blob/main/DashBoard_img.png?raw=true)
 
 ---
 
